@@ -1,0 +1,14 @@
+[
+    {
+        "amount": 12.0,
+        "category": "213",
+        "description": "123",
+        "date": "25-01-08"
+    },
+    {
+        "amount": 1231.0,
+        "category": "babnik",
+        "description": "nastya, leyla, masha, sonya",
+        "date": "25-01-08"
+    }
+]
